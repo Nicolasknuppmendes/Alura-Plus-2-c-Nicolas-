@@ -1,0 +1,6 @@
+.banner {
+    background-color: rgb(221, 6, 135 );
+    color: var(--branco);
+    text-align: center;
+    padding: 2.5em 2em;
+}
